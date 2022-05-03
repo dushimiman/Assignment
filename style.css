@@ -1,0 +1,67 @@
+body{
+
+}
+.form-comtainer{
+    height: 70vh;
+    padding: 90px;
+    background-image: linear-gradient( 35deg,#00FFA9 35% , #EEEFEF 35%);
+}
+.form{
+    background: white;
+    height: 70vh;
+    padding: 30px;
+
+
+}
+.text-box{
+float: left;
+font-size: 40px;
+border-bottom: 1px solid #070707;
+display: inline-block;
+margin-left: 2rem;
+
+}
+.text-box input{
+    border: none;
+    outline: none;
+}
+.text-box1{
+    font-size: 40px;
+    padding: 10px;
+    width: 40%;
+border-bottom: 1px solid #070707;
+
+}
+.text-box1 input{
+    border: none;
+    outline: none;
+}
+.description{
+    float: right;
+    margin-top: -20rem;
+      font-family: 'Times New Roman', Times, serif; 
+      margin-right: 5rem;
+   /* font-family: cursive; */
+}
+.color{
+    background-color: #00FFA9;
+    width: 15%;
+    height: 20vh;
+    float: right;
+    clip-path: polygon(0% 0%, 75% 0%, 100% 0, 100% 96%, 100% 75%);
+
+}
+.color{
+    background-color: #00FFA9;
+    width: 15%;
+    height: 20vh;
+    float: right;
+    clip-path: polygon(0% 0%, 75% 0%, 100% 0, 100% 96%, 100% 75%);
+
+}
+.button{
+    background-color: #FF7A4A;
+    width: 20%;
+    height: 10vh;
+    padding: 10px;
+}
